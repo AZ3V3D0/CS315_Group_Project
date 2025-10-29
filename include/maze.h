@@ -7,8 +7,8 @@
 // =========================================
 
 // Define the maximum allowed maze dimensions
-#define MAX_ROWS 100
-#define MAX_COLS 100
+#define MAX_ROWS 700
+#define MAX_COLS 700
 
 // Structure that stores the maze grid and useful metadata
 typedef struct {
